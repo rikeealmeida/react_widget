@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1653685345920" clover="3.2.0">
-  <project timestamp="1653685345920" name="All files">
+<coverage generated="1653685595479" clover="3.2.0">
+  <project timestamp="1653685595479" name="All files">
     <metrics statements="46" coveredstatements="42" conditionals="6" coveredconditionals="4" methods="2" coveredmethods="2" elements="54" coveredelements="48" complexity="0" loc="46" ncloc="46" packages="1" files="1" classes="1"/>
-    <file name="submit-feedback-use-case.ts" path="C:\Users\Henrique\Documents\Projetos\Henrique\widget\server\src\use-cases\submit-feedback-use-case.ts">
+    <file name="submit-feedback-use-case.ts" path="/Users/henriquealmeida/Documents/Henrique/Projetos/ReactApp/react_widget/server/src/use-cases/submit-feedback-use-case.ts">
       <metrics statements="46" coveredstatements="42" conditionals="6" coveredconditionals="4" methods="2" coveredmethods="2"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
