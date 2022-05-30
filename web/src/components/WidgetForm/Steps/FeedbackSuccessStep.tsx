@@ -1,4 +1,5 @@
 import { CloseButton } from "../../CloseButton";
+import doneUrl from '../../../assets/done.svg';
 
 interface FeedbackSucessStepProps {
     onFeedbackRestartRequested: () => void;
@@ -13,7 +14,7 @@ export function FeedbackSuccessStep({
                 <CloseButton />
             </header>
             <div className="flex flex-col items-center py-10 w-[304px]">
-                <img className="h-20 w-20" src='src\assets\done.svg' alt="Icone de concluído" />
+                <img className="h-20 w-20" src={doneUrl} alt="Icone de concluído" />
                 <span className="text-xl mt-2">Obrigado pelo feedback!</span>
                 <button
                     type="button"
