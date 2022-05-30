@@ -13,7 +13,7 @@ export function FeedbackSuccessStep({
                 <CloseButton />
             </header>
             <div className="flex flex-col items-center py-10 w-[304px]">
-                <img src='src\assets\done.svg' alt="Icone de concluído" />
+                <img className="h-20 w-20" src='src\assets\done.svg' alt="Icone de concluído" />
                 <span className="text-xl mt-2">Obrigado pelo feedback!</span>
                 <button
                     type="button"
